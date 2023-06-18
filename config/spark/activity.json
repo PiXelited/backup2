@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Sol",
+      "uniqueId": "07037678-6b4a-36a4-a09d-679df96376aa"
+    },
+    "time": 1683701435121,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/W4lwiwkTRA"
+    }
+  }
+]

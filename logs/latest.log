@@ -1,0 +1,16 @@
+[10:36:16] [Server thread/INFO]: There are 0 of a max of 10 players online: 
+[10:36:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:36:19] [Server thread/INFO]: exit<--[HERE]
+[10:36:25] [Server thread/INFO]: Stopping the server
+[10:36:25] [Server thread/INFO]: Shutting down Geyser.
+[10:36:25] [Server thread/INFO]: Geyser shutdown successfully.
+[10:36:26] [Server thread/INFO]: Stopping server
+[10:36:26] [Server thread/INFO]: Saving players
+[10:36:26] [Server thread/INFO]: Saving worlds
+[10:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
