@@ -5,5 +5,95 @@
     },
     "done": false
   },
-  "DataVersion": 3218
+  "nitk:nit": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "medievalcastles:medieval_castles": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "global:omer03": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "nitaes:recipes/root": {
+    "criteria": {
+      "exists": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "global:amrith": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "amr.nature:aesthetics": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "nitaes:recipes/town-plots": {
+    "criteria": {
+      "exists": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-06-23 11:29:24 +0000"
+    },
+    "done": true
+  },
+  "global:kanokarob": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "medievalcastles:recipes/root": {
+    "criteria": {
+      "exists": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "nitaes:recipes/towns": {
+    "criteria": {
+      "exists": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "nitaes:recipes/cities": {
+    "criteria": {
+      "exists": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "nitaes:recipes/town-roads": {
+    "criteria": {
+      "exists": "2023-06-23 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3463
 }

@@ -1,16 +1,88 @@
-[10:36:16] [Server thread/INFO]: There are 0 of a max of 10 players online: 
-[10:36:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[10:36:19] [Server thread/INFO]: exit<--[HERE]
-[10:36:25] [Server thread/INFO]: Stopping the server
-[10:36:25] [Server thread/INFO]: Shutting down Geyser.
-[10:36:25] [Server thread/INFO]: Geyser shutdown successfully.
-[10:36:26] [Server thread/INFO]: Stopping server
-[10:36:26] [Server thread/INFO]: Saving players
-[10:36:26] [Server thread/INFO]: Saving worlds
-[10:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e4bb912[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:39338) lost connection: Disconnected
+[00:13:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@521e2382[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:37654) lost connection: Disconnected
+[00:24:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@54a1bb75[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:35328) lost connection: Disconnected
+[00:34:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@440f049c[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:42158) lost connection: Disconnected
+[00:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@44527a28[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:47584) lost connection: Disconnected
+[00:53:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@3cc26ea5[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:45186) lost connection: Disconnected
+[01:02:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c972016[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:51694) lost connection: Disconnected
+[01:12:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@620c6f80[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:46992) lost connection: Disconnected
+[01:22:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@204fbc89[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:33994) lost connection: Disconnected
+[01:24:37] [epollEventLoopGroup-3-1/INFO]: /45.127.167.199:59116 tried to connect!
+[01:24:38] [epollEventLoopGroup-3-4/INFO]: Player connected with username xboxbussin
+[01:24:38] [epollEventLoopGroup-5-2/INFO]: xboxbussin (logged in as: xboxbussin) has connected to remote java server on address 127.0.1.1
+[01:24:38] [Server thread/INFO]: xboxbussin[/127.0.0.1:52361] logged in with entity id 275405 at (58.419636, 313.0625, 262.3141)
+[01:24:38] [Server thread/INFO]: xboxbussin joined the game
+[01:28:56] [epollEventLoopGroup-5-2/INFO]: xboxbussin has disconnected from remote Java server on address 127.0.1.1 because of Bedrock client disconnected
+[01:28:56] [Server thread/INFO]: xboxbussin lost connection: Disconnected
+[01:28:56] [Server thread/INFO]: xboxbussin left the game
+[01:31:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@50aabbc1[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:39218) lost connection: Disconnected
+[01:40:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fbf5b68[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:43654) lost connection: Disconnected
+[01:49:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@7658a8ed[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:41954) lost connection: Disconnected
+[01:59:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@19515f16[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:60756) lost connection: Disconnected
+[02:08:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@1521a8e8[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:38350) lost connection: Disconnected
+[02:17:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@53284519[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:57644) lost connection: Disconnected
+[02:27:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@26e66d85[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:34200) lost connection: Disconnected
+[02:36:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@3153d776[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:44484) lost connection: Disconnected
+[02:45:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@287e027b[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:60094) lost connection: Disconnected
+[02:54:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@40a82a1a[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:35418) lost connection: Disconnected
+[03:04:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c088f4f[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:52858) lost connection: Disconnected
+[03:15:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@30f50a68[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:48554) lost connection: Disconnected
+[03:25:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fc42904[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:38880) lost connection: Disconnected
+[03:35:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@30906449[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:44442) lost connection: Disconnected
+[03:45:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@705d4466[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:56258) lost connection: Disconnected
+[03:55:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@57e7eaf6[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:36772) lost connection: Disconnected
+[04:04:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@35daff7[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:60020) lost connection: Disconnected
+[04:14:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@12082400[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:33482) lost connection: Disconnected
+[04:23:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@54a24b30[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:41152) lost connection: Disconnected
+[04:33:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ff3940e[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:38802) lost connection: Disconnected
+[04:42:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@50fc6260[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:58602) lost connection: Disconnected
+[04:52:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f672011[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:36494) lost connection: Disconnected
+[05:01:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d06fbe8[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:34654) lost connection: Disconnected
+[05:11:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@73e64ccb[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:37632) lost connection: Disconnected
+[05:20:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@259ec1bd[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:43676) lost connection: Disconnected
+[05:30:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@717347b[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:55692) lost connection: Disconnected
+[05:40:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@30c8c15[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:40594) lost connection: Disconnected
+[05:50:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d8a153f[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:54882) lost connection: Disconnected
+[05:59:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@155ef6b0[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:39916) lost connection: Disconnected
+[06:09:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ddd0fb4[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:45052) lost connection: Disconnected
+[06:18:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2caafcfd[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:54768) lost connection: Disconnected
+[06:28:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@16644a7d[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:55040) lost connection: Disconnected
+[06:38:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@2169ab77[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:51934) lost connection: Disconnected
+[06:47:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@50b0fa5c[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:40346) lost connection: Disconnected
+[06:57:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a10e62f[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:58776) lost connection: Disconnected
+[07:06:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a0ec50b[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:50688) lost connection: Disconnected
+[07:16:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@3aaf5ac1[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:56080) lost connection: Disconnected
+[07:25:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@444102ab[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:39424) lost connection: Disconnected
+[07:32:31] [epollEventLoopGroup-3-1/INFO]: /45.127.167.199:36795 tried to connect!
+[07:32:33] [epollEventLoopGroup-3-1/INFO]: Player connected with username xboxbussin
+[07:32:33] [epollEventLoopGroup-5-3/INFO]: xboxbussin (logged in as: xboxbussin) has connected to remote java server on address 127.0.1.1
+[07:32:33] [Server thread/INFO]: xboxbussin[/127.0.0.1:35373] logged in with entity id 281204 at (-1.297867, 153.9381, -21.968502)
+[07:32:33] [Server thread/INFO]: xboxbussin joined the game
+[07:33:25] [Server thread/INFO]: [xboxbussin: Set the time to 1000]
+[07:35:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@4da8367a[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:57654) lost connection: Disconnected
+[07:36:40] [epollEventLoopGroup-5-3/INFO]: xboxbussin has disconnected from remote Java server on address 127.0.1.1 because of Bedrock client disconnected
+[07:36:40] [Server thread/INFO]: xboxbussin lost connection: Disconnected
+[07:36:40] [Server thread/INFO]: xboxbussin left the game
+[07:45:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f508922[id=<null>,name=cuute,properties={},legacy=false] (/162.33.178.237:33596) lost connection: Disconnected
+[07:46:44] [epollEventLoopGroup-3-1/INFO]: /45.127.167.199:36795 tried to connect!
+[07:46:45] [epollEventLoopGroup-3-2/INFO]: Player connected with username xboxbussin
+[07:46:45] [epollEventLoopGroup-5-4/INFO]: xboxbussin (logged in as: xboxbussin) has connected to remote java server on address 127.0.1.1
+[07:46:45] [Server thread/INFO]: xboxbussin[/127.0.0.1:56033] logged in with entity id 291716 at (57.655445, 104.0, 62.017365)
+[07:46:45] [Server thread/INFO]: xboxbussin joined the game
+[07:47:42] [Server thread/INFO]: [xboxbussin: Set the time to 1000]
+[07:48:57] [epollEventLoopGroup-5-4/INFO]: xboxbussin has disconnected from remote Java server on address 127.0.1.1 because of Bedrock client disconnected
+[07:48:57] [Server thread/INFO]: xboxbussin lost connection: Disconnected
+[07:48:57] [Server thread/INFO]: xboxbussin left the game
+[07:50:23] [Server thread/INFO]: Stopping the server
+[07:50:23] [Server thread/INFO]: Shutting down Geyser.
+[07:50:23] [Server thread/INFO]: Geyser shutdown successfully.
+[07:50:23] [Server thread/INFO]: Stopping server
+[07:50:23] [Server thread/INFO]: Saving players
+[07:50:23] [Server thread/INFO]: Saving worlds
+[07:50:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:50:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:50:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:50:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:50:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:50:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:50:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
